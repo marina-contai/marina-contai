@@ -1,7 +1,7 @@
 
 ## Oiii eu sou a Marina Benedetti 👋
 
-Atualmente sou programadora front-end React-Native 
+## sou desenvolvedora front-end React-Native 
 
 - Já fui programadora delphi 
 - Analista de sistemas pela UNOESC de Xanxerê-SC e pós graduada em desenvolvimento de aplicações mobile.
